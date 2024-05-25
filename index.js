@@ -16,7 +16,7 @@ var containter=document.querySelector(".website-count")
 //     const response = await fetch();
 //     var data = await response.json();
 //     }
-const url="https://counter-api.kausicmn.com/example" 
+const url="https://nishar-ramesh.github.io/Portfolio/" 
 async function counter(url)
 {
     const response = await fetch(url)
